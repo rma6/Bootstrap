@@ -1,0 +1,97 @@
+.myimg{
+	width: 99%;
+	max-width: 300px;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	display: block;
+}
+
+.myimgp{
+	width: 99%;
+	height: 99%;
+	max-width: 200px;
+	max-height: 200px; 
+	border-radius: 200px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.myico{
+	margin-top: 20%;
+	margin-bottom: 20%;
+	max-width: 120px;
+}
+
+.corpo{
+	width: 100%;
+	max-width: 935px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mymargin{
+	margin-bottom: 5%;
+}
+
+.mymarginp{
+	margin-top: 15%;
+	margin-bottom: 5%;
+}
+
+.mymargin2{
+	margin-right: 2%;
+}
+
+.rodape{
+	margin-left: 1%;
+	font-family: 'VT323', sans-serif;
+	font-size: 120%;
+}
+
+.myvalign{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.myvalign2{
+	padding-top: 17px;
+	padding-bottom: 8px;
+}
+
+.myvalign3{
+	margin-top: 10%;
+}
+
+.myimg2{
+	width: 99%;
+	max-width: 176px;
+	max-height: 35px;
+}
+
+.mycenter{
+	margin-left: 30px;
+}
+
+.roundcorner{
+	width: 70px;
+	height: 30px;
+	margin-top: 5%;
+}
+
+.roundcorner2{
+	max-width: 40px;
+	max-height: 40px; 
+	border-radius: 200px;
+	margin-top: 20px;
+	margin-bottom: 10%;
+}
+
+.mylines{
+	margin-top: 17px;
+	margin-bottom: 10%;
+	display: block;
+}
+
+.myhal{
+	margin-left: 20px;
+}
